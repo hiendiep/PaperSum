@@ -18,7 +18,7 @@ This tool rapidly analyzes hundreds of quantitative strategy research papers, pr
 ## 6. Process and Approach
 Input: Hundreds of trading paper files (PDF, DOC, CSV, etc.).  
 Output: Structured summaries of each paper in CSV files, serving meta-analysis of specific research domains and quantitative strategy development.  
-+ Process and Features:  
+Process and Features:  
 - AI Summarization: Uses **OpenAI API** (e.g., GPT-4o-mini) to explore and structurally summarize hundreds of input research paper files.
 - LangChain Integration: Processes various document types (PDFs, text files) and structures outputs for analysis.
 - Parallel Processing: Handles multiple documents concurrently for scalability.
