@@ -5,6 +5,10 @@ PaperSum - A Tool to Summarize Quant Strategy Research Papers
 
 ## 2. Domain
 Quantitative Trading Strategy (Alpha) Research
+Prompt Engineer
+Software Development
+Academic Research
+
 
 ## 3. Served Stakeholder
 Vietnam finalist competing in the International Quant Championship (IQC) 2024 Global Final in Singapore - by WorldQuant
