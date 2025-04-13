@@ -16,8 +16,8 @@ Project start to end: September 2024
 This tool rapidly analyzes hundreds of quantitative strategy research papers, providing comprehensive insights into specific quant strategy domains. It leverages **OpenAI API** and **LangChain** to automate document processing and summarization, helping users quickly extract key findings, trading strategies, and performance metrics, among other details.
 
 ## 6. Process and Approach
-+ Input: Hundreds of trading paper files (PDF, DOC, CSV, etc.).  
-+ Output: Structured summaries of each paper in CSV files, serving meta-analysis of specific research domains and quantitative strategy development.  
+Input: Hundreds of trading paper files (PDF, DOC, CSV, etc.).  
+Output: Structured summaries of each paper in CSV files, serving meta-analysis of specific research domains and quantitative strategy development.  
 + Process and Features:  
 - AI Summarization: Uses **OpenAI API** (e.g., GPT-4o-mini) to explore and structurally summarize hundreds of input research paper files.
 - LangChain Integration: Processes various document types (PDFs, text files) and structures outputs for analysis.
