@@ -4,10 +4,10 @@
 PaperSum - A Tool to Summarize Quant Strategy Research Papers
 
 ## 2. Domain
-Quantitative Trading Strategy (Alpha) Research
-Prompt Engineer
-Software Development
-Academic Research
++ Quantitative Trading Strategy (Alpha) Research
++ Prompt Engineer
++ Software Development
++ Academic Research
 
 
 ## 3. Served Stakeholder
