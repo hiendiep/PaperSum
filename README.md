@@ -11,8 +11,13 @@ PaperSum - A Tool to Summarize Quant Strategy Research Papers
 
 
 ## 3. Served Stakeholder
-Vietnam finalist competing in the International Quant Championship (IQC) 2024 Global Final in Singapore - by WorldQuant
-
+Global finalist competing in the International Quant Championship (IQC) 2024 Global Final in Singapore - by WorldQuant  
+Teammate:
++ Chau Thuan Phat - Main Engineer (https://www.linkedin.com/in/chau-thuan-phat-b60402154/)
++ Nguyen Hoang An - Researcher (https://www.linkedin.com/in/nguyenhoangan84/)
++ Vo Minh Hieu - Engineer (https://www.linkedin.com/in/hieuvo2402/)
++ Gia Nhi Nguyen - Strategist, Admin, Supporter (https://www.linkedin.com/in/gia-nhi-nguyen-1733a8146/)
+  
 ## 4. Timeline
 Project start to end: September 2024
 
